@@ -1,0 +1,17 @@
+title: About 500 Social
+description: The deliberately small online community.
+lang: en
+locale: en_GB
+url: "https://about.500.social"
+logo: /assets/images/favicon.png # Change this to be your favicon
+
+# You don't need to change any of this stuff
+baseurl: ""
+permalink: :title
+
+# Syntax Highlighting
+highlighter: rouge
+
+# If you want to add more plugins, do so here
+plugins:
+  - jekyll-sitemap
