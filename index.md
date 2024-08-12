@@ -5,7 +5,7 @@ layout: default
 ---
 <p class="notice" markdown="1"><span style="text-align:center;display:block;font-size:1.5rem;">⚠️ **WARNING** ⚠️</span>
     <br>
-    From **November 2024** Apple are forcing Patreon to use their payment processor within the app. That means all Patreon purchases done through the iOS app are subject to Apple's 30% fee. **If you're an iOS user, I'd recommend purcahsing a membership via the Patreon website, not the iOS app.**
+    From **November 2024** Apple are forcing Patreon to use their payment processor within the app. That means all Patreon purchases done through the iOS app are subject to Apple's 30% fee. **If you're an iOS user, I'd recommend purchasing a membership via the Patreon website, not the iOS app.**
     <br>
     <br>
     You can [read more about it here](https://news.patreon.com/articles/understanding-apple-requirements-for-patreon).
