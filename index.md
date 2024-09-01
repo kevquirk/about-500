@@ -21,6 +21,7 @@ So without further ado, let's get stuck in, shall we?
 * [Who can join](#who)
 * [How it works](#how)
 * [Member expectations](#expectations)
+    * [WFT, no politics?](#politics)
 
 ## Why 500 Social exists {#why}
 
@@ -73,3 +74,12 @@ Ok, here's the expectations:
 * Posts about politics and religion should be avoided, if you strongly feel the urge to post about these topics, please put them behind a Content Warning
 
 I think that pretty much covers it for now. I'll add more if/when the need requires it.
+
+### On politics {#politics}
+> Woah woah woah. Hang on there, sparky...no politics? WTF is that all about? Politics are very important.
+
+Yup, I agree. Politics are *extremely* important, and it's also *extremely* important to debate politics and political opinions. It's one of the cornerstones of freedom of speech.
+
+However, 500 Social isn't the place for that. Sometimes people want a break from all the seriousness and awful things going on in the world. That's what I want 500 Social to be. I want it to be a lighthearted place where people can talk about the things that make them feel good. Generally speaking (in my experience at least), politics rarely give people the warm and fuzzies.
+
+I say all this not to diminish the importance of political topics. To stress again, **politics *are* important** I'd just prefer people don't post about them on the 500 Social timeline. If members of 500 Social want to reply to existing conversations about political topics, that's fine as long as it's polite discourse.
